@@ -77,7 +77,7 @@ def update_readme():
         
         # Pattern to match the "View All Repositories" badge
         repo_pattern = r"(View%20All%20Repositories-)(\d+)(%20repos-[^)]+)"
-        repo_replacement = rf"\g<1>{repo_count}\g<3>"
+        repo_replacement = r"\1" + str(repo_count) + r"\3"
         
         if re.search(repo_pattern, content):
             content = re.sub(repo_pattern, repo_replacement, content)
