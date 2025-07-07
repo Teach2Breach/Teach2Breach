@@ -64,10 +64,11 @@ def update_readme():
             
             # Pattern to match the badge with current star count
             pattern = rf"(\[!\[{re.escape(display_name)}\]\([^)]+-)(\d+)(%20stars-[^)]+\)\]\([^)]+\))"
-            replacement = rf"\1{stars}\3"
+            def badge_replacement(match):
+                return f"{match.group(1)}{stars}{match.group(3)}"
             
             if re.search(pattern, content):
-                content = re.sub(pattern, replacement, content)
+                content = re.sub(pattern, badge_replacement, content)
             else:
                 print(f"Warning: Could not find pattern for {display_name}")
         
@@ -77,8 +78,10 @@ def update_readme():
         
         # Pattern to match the "View All Repositories" badge
         repo_pattern = r"(View%20All%20Repositories-)(\d+)(%20repos-[^)]+)"
-        repo_replacement = r"\1" + str(repo_count) + r"\3"
-        
+
+        def repo_replacement(match):
+            return f"{match.group(1)}{repo_count}{match.group(3)}"
+
         if re.search(repo_pattern, content):
             content = re.sub(repo_pattern, repo_replacement, content)
         else:
