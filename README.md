@@ -40,7 +40,7 @@ let me = SecurityResearcher {
 > A sophisticated command and control framework written in Rust
 
 ### 🌙 **Moonwalk** - DLL Base Address Finder
-[![Moonwalk](https://img.shields.io/badge/Moonwalk-123%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/moonwalk)
+[![Moonwalk](https://img.shields.io/badge/Moonwalk-124%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/moonwalk)
 > Find DLL base addresses without PEB WALK
 
 ### 🔧 **Noldr** - Dynamic API Resolution
