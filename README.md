@@ -40,19 +40,17 @@ let me = SecurityResearcher {
 > A sophisticated command and control framework written in Rust
 
 <<<<<<< HEAD
-### 🌌 **Stargate** - Locate function addresses without EAT parsing
+### 🌌 **Stargate** 
 [![Stargate](https://img.shields.io/badge/Stargate-13%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/stargate)
-> Advanced process injection techniques and research
+> Locate function addresses without EAT parsing
 
-### 🌙 **Moonwalk** - Locate dll addresses without PEB WALK
+### 🌙 **Moonwalk**
 [![Moonwalk](https://img.shields.io/badge/Moonwalk-107%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/moonwalk)
 =======
-### 🌙 **Moonwalk** - DLL Base Address Finder
-[![Moonwalk](https://img.shields.io/badge/Moonwalk-131%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/moonwalk)
->>>>>>> cf945a20d14218ded86749695b3d8fd11d18bb1a
+
 > Find DLL base addresses without PEB WALK
 
-### 🔧 **Noldr** - Dynamic API Resolution
+### 🔧 **Noldr**
 [![Noldr](https://img.shields.io/badge/Noldr-66%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/noldr)
 > Dynamically resolve API function addresses at runtime
 
