@@ -36,11 +36,11 @@ let me = SecurityResearcher {
 <div align="center">
 
 ### 🔥 **Tempest** - Command & Control Framework
-[![Tempest](https://img.shields.io/badge/Tempest-356%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/Tempest)
+[![Tempest](https://img.shields.io/badge/Tempest-357%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/Tempest)
 > A sophisticated command and control framework written in Rust
 
 ### 🌙 **Moonwalk** - DLL Base Address Finder
-[![Moonwalk](https://img.shields.io/badge/Moonwalk-124%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/moonwalk)
+[![Moonwalk](https://img.shields.io/badge/Moonwalk-131%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/moonwalk)
 > Find DLL base addresses without PEB WALK
 
 ### 🔧 **Noldr** - Dynamic API Resolution
