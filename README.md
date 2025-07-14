@@ -39,7 +39,11 @@ let me = SecurityResearcher {
 [![Tempest](https://img.shields.io/badge/Tempest-353%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/Tempest)
 > A sophisticated command and control framework written in Rust
 
-### 🌙 **Moonwalk** - DLL Base Address Finder
+### 🌌 **Stargate** - Locate function addresses without EAT parsing
+[![Stargate](https://img.shields.io/badge/Stargate-13%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/stargate)
+> Advanced process injection techniques and research
+
+### 🌙 **Moonwalk** - Locate dll addresses without PEB WALK
 [![Moonwalk](https://img.shields.io/badge/Moonwalk-107%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/moonwalk)
 > Find DLL base addresses without PEB WALK
 

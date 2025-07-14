@@ -16,6 +16,7 @@ README_PATH = "README.md"
 # List of featured repos (display_name, repo_name)
 FEATURED_REPOS: List[Tuple[str, str]] = [
     ("Tempest", "Tempest"),
+    ("Stargate", "stargate"),
     ("Moonwalk", "moonwalk"),
     ("Noldr", "noldr"),
     ("Early Cascade", "early_cascade_inj_rs"),
