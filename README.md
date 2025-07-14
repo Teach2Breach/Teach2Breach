@@ -36,15 +36,20 @@ let me = SecurityResearcher {
 <div align="center">
 
 ### 🔥 **Tempest** - Command & Control Framework
-[![Tempest](https://img.shields.io/badge/Tempest-353%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/Tempest)
+[![Tempest](https://img.shields.io/badge/Tempest-357%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/Tempest)
 > A sophisticated command and control framework written in Rust
 
+<<<<<<< HEAD
 ### 🌌 **Stargate** - Locate function addresses without EAT parsing
 [![Stargate](https://img.shields.io/badge/Stargate-13%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/stargate)
 > Advanced process injection techniques and research
 
 ### 🌙 **Moonwalk** - Locate dll addresses without PEB WALK
 [![Moonwalk](https://img.shields.io/badge/Moonwalk-107%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/moonwalk)
+=======
+### 🌙 **Moonwalk** - DLL Base Address Finder
+[![Moonwalk](https://img.shields.io/badge/Moonwalk-131%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/moonwalk)
+>>>>>>> cf945a20d14218ded86749695b3d8fd11d18bb1a
 > Find DLL base addresses without PEB WALK
 
 ### 🔧 **Noldr** - Dynamic API Resolution
@@ -56,7 +61,7 @@ let me = SecurityResearcher {
 > Early cascade injection PoC based on Outflank's research
 
 ### 🎉 **Pool Party**
-[![Pool Party](https://img.shields.io/badge/Pool%20Party-62%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/pool_party_rs)
+[![Pool Party](https://img.shields.io/badge/Pool%20Party-64%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/pool_party_rs)
 > Remote process injections using pool party techniques
 
 ### 👻 **Phantom Persistence**
