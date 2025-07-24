@@ -36,36 +36,36 @@ let me = SecurityResearcher {
 <div align="center">
 
 ### 🔥 **Tempest** - Command & Control Framework
-[![Tempest](https://img.shields.io/badge/Tempest-0%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/Tempest)
+[![Tempest](https://img.shields.io/badge/Tempest-357%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/Tempest)
 > A sophisticated command and control framework written in Rust
 
 ### 🌌 **Stargate** 
-[![Stargate](https://img.shields.io/badge/Stargate-0%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/stargate)
+[![Stargate](https://img.shields.io/badge/Stargate-60%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/stargate)
 > Locate function addresses without EAT parsing
 
 ### 🌙 **Moonwalk**
-[![Moonwalk](https://img.shields.io/badge/Moonwalk-0%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/moonwalk)
+[![Moonwalk](https://img.shields.io/badge/Moonwalk-137%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/moonwalk)
 =======
 > Find DLL base addresses without PEB WALK
 
 ### 🔧 **Noldr**
-[![Noldr](https://img.shields.io/badge/Noldr-0%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/noldr)
+[![Noldr](https://img.shields.io/badge/Noldr-67%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/noldr)
 > Dynamically resolve API function addresses at runtime
 
 ### ⚡ **Early Cascade Injection**
-[![Early Cascade](https://img.shields.io/badge/Early%20Cascade-0%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/early_cascade_inj_rs)
+[![Early Cascade](https://img.shields.io/badge/Early%20Cascade-60%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/early_cascade_inj_rs)
 > Early cascade injection PoC based on Outflank's research
 
 ### 🎉 **Pool Party**
-[![Pool Party](https://img.shields.io/badge/Pool%20Party-0%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/pool_party_rs)
+[![Pool Party](https://img.shields.io/badge/Pool%20Party-66%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/pool_party_rs)
 > Remote process injections using pool party techniques
 
 ### 👻 **Phantom Persistence**
-[![Phantom](https://img.shields.io/badge/Phantom%20Persistence-0%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/phantom_persist_rs)
+[![Phantom](https://img.shields.io/badge/Phantom%20Persistence-50%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/phantom_persist_rs)
 > Rust implementation of phantom persistence technique
 
 ### 🚀 **More Projects**
-[![View All](https://img.shields.io/badge/View%20All%20Repositories-0%20repos-00ff41?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Teach2Breach?tab=repositories&q=&type=source&language=&sort=)
+[![View All](https://img.shields.io/badge/View%20All%20Repositories-119%20repos-00ff41?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Teach2Breach?tab=repositories&q=&type=source&language=&sort=)
 > Explore my complete collection of cybersecurity tools and research
 
 </div>
