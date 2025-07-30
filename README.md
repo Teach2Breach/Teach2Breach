@@ -36,7 +36,7 @@ let me = SecurityResearcher {
 <div align="center">
 
 ### 🔥 **Tempest** - Command & Control Framework
-[![Tempest](https://img.shields.io/badge/Tempest-359%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/Tempest)
+[![Tempest](https://img.shields.io/badge/Tempest-358%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/Tempest)
 > A sophisticated command and control framework written in Rust
 
 ### 🌌 **Stargate** 
@@ -65,7 +65,7 @@ let me = SecurityResearcher {
 > Rust implementation of phantom persistence technique
 
 ### 🚀 **More Projects**
-[![View All](https://img.shields.io/badge/View%20All%20Repositories-119%20repos-00ff41?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Teach2Breach?tab=repositories&q=&type=source&language=&sort=)
+[![View All](https://img.shields.io/badge/View%20All%20Repositories-120%20repos-00ff41?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Teach2Breach?tab=repositories&q=&type=source&language=&sort=)
 > Explore my complete collection of cybersecurity tools and research
 
 </div>
