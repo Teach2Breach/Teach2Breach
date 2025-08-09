@@ -65,7 +65,7 @@ let me = SecurityResearcher {
 > Rust implementation of phantom persistence technique
 
 ### 🚀 **More Projects**
-[![View All](https://img.shields.io/badge/View%20All%20Repositories-121%20repos-00ff41?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Teach2Breach?tab=repositories&q=&type=source&language=&sort=)
+[![View All](https://img.shields.io/badge/View%20All%20Repositories-122%20repos-00ff41?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Teach2Breach?tab=repositories&q=&type=source&language=&sort=)
 > Explore my complete collection of cybersecurity tools and research
 
 </div>
