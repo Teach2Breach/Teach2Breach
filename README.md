@@ -36,7 +36,7 @@ let me = SecurityResearcher {
 <div align="center">
 
 ### 🔥 **Tempest** - Command & Control Framework
-[![Tempest](https://img.shields.io/badge/Tempest-363%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/Tempest)
+[![Tempest](https://img.shields.io/badge/Tempest-367%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/Tempest)
 > A sophisticated command and control framework written in Rust
 
 ### 🌌 **Stargate** 
@@ -44,7 +44,7 @@ let me = SecurityResearcher {
 > Locate function addresses without EAT parsing
 
 ### 🌙 **Moonwalk**
-[![Moonwalk](https://img.shields.io/badge/Moonwalk-143%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/moonwalk)
+[![Moonwalk](https://img.shields.io/badge/Moonwalk-144%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/moonwalk)
 =======
 > Find DLL base addresses without PEB WALK
 
