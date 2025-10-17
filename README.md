@@ -44,7 +44,7 @@ let me = SecurityResearcher {
 > Locate function addresses without EAT parsing
 
 ### 🌙 **Moonwalk**
-[![Moonwalk](https://img.shields.io/badge/Moonwalk-148%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/moonwalk)
+[![Moonwalk](https://img.shields.io/badge/Moonwalk-149%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/moonwalk)
 =======
 > Find DLL base addresses without PEB WALK
 
@@ -61,7 +61,7 @@ let me = SecurityResearcher {
 > Remote process injections using pool party techniques
 
 ### 👻 **Phantom Persistence**
-[![Phantom](https://img.shields.io/badge/Phantom%20Persistence-54%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/phantom_persist_rs)
+[![Phantom](https://img.shields.io/badge/Phantom%20Persistence-56%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/phantom_persist_rs)
 > Rust implementation of phantom persistence technique
 
 ### 🚀 **More Projects**
