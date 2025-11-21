@@ -44,7 +44,7 @@ let me = SecurityResearcher {
 > Locate function addresses without EAT parsing
 
 ### 🌙 **Moonwalk**
-[![Moonwalk](https://img.shields.io/badge/Moonwalk-152%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/moonwalk)
+[![Moonwalk](https://img.shields.io/badge/Moonwalk-153%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/moonwalk)
 =======
 > Find DLL base addresses without PEB WALK
 
