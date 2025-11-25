@@ -49,7 +49,7 @@ let me = SecurityResearcher {
 > Find DLL base addresses without PEB WALK
 
 ### 🔧 **Noldr**
-[![Noldr](https://img.shields.io/badge/Noldr-69%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/noldr)
+[![Noldr](https://img.shields.io/badge/Noldr-70%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/noldr)
 > Dynamically resolve API function addresses at runtime
 
 ### ⚡ **Early Cascade Injection**
