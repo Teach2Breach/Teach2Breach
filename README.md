@@ -36,15 +36,15 @@ let me = SecurityResearcher {
 <div align="center">
 
 ### 🔥 **Tempest** - Command & Control Framework
-[![Tempest](https://img.shields.io/badge/Tempest-381%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/Tempest)
+[![Tempest](https://img.shields.io/badge/Tempest-382%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/Tempest)
 > A sophisticated command and control framework written in Rust
 
 ### 🌌 **Stargate** 
-[![Stargate](https://img.shields.io/badge/Stargate-95%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/stargate)
+[![Stargate](https://img.shields.io/badge/Stargate-96%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/stargate)
 > Locate function addresses without EAT parsing
 
 ### 🌙 **Moonwalk**
-[![Moonwalk](https://img.shields.io/badge/Moonwalk-155%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/moonwalk)
+[![Moonwalk](https://img.shields.io/badge/Moonwalk-156%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/moonwalk)
 =======
 > Find DLL base addresses without PEB WALK
 
@@ -53,7 +53,7 @@ let me = SecurityResearcher {
 > Dynamically resolve API function addresses at runtime
 
 ### ⚡ **Early Cascade Injection**
-[![Early Cascade](https://img.shields.io/badge/Early%20Cascade-61%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/early_cascade_inj_rs)
+[![Early Cascade](https://img.shields.io/badge/Early%20Cascade-62%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/early_cascade_inj_rs)
 > Early cascade injection PoC based on Outflank's research
 
 ### 🎉 **Pool Party**
@@ -61,7 +61,7 @@ let me = SecurityResearcher {
 > Remote process injections using pool party techniques
 
 ### 👻 **Phantom Persistence**
-[![Phantom](https://img.shields.io/badge/Phantom%20Persistence-61%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/phantom_persist_rs)
+[![Phantom](https://img.shields.io/badge/Phantom%20Persistence-62%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/phantom_persist_rs)
 > Rust implementation of phantom persistence technique
 
 ### 🚀 **More Projects**
