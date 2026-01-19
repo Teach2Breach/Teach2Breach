@@ -40,7 +40,7 @@ let me = SecurityResearcher {
 > A sophisticated command and control framework written in Rust
 
 ### 🌌 **Stargate** 
-[![Stargate](https://img.shields.io/badge/Stargate-97%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/stargate)
+[![Stargate](https://img.shields.io/badge/Stargate-98%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/stargate)
 > Locate function addresses without EAT parsing
 
 ### 🌙 **Moonwalk**
@@ -61,7 +61,7 @@ let me = SecurityResearcher {
 > Remote process injections using pool party techniques
 
 ### 👻 **Phantom Persistence**
-[![Phantom](https://img.shields.io/badge/Phantom%20Persistence-62%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/phantom_persist_rs)
+[![Phantom](https://img.shields.io/badge/Phantom%20Persistence-63%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/phantom_persist_rs)
 > Rust implementation of phantom persistence technique
 
 ### 🚀 **More Projects**
