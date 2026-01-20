@@ -57,7 +57,7 @@ let me = SecurityResearcher {
 > Early cascade injection PoC based on Outflank's research
 
 ### 🎉 **Pool Party**
-[![Pool Party](https://img.shields.io/badge/Pool%20Party-69%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/pool_party_rs)
+[![Pool Party](https://img.shields.io/badge/Pool%20Party-70%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/pool_party_rs)
 > Remote process injections using pool party techniques
 
 ### 👻 **Phantom Persistence**
