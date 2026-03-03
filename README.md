@@ -40,16 +40,16 @@ let me = SecurityResearcher {
 > A sophisticated command and control framework written in Rust
 
 ### 🌌 **Stargate** 
-[![Stargate](https://img.shields.io/badge/Stargate-104%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/stargate)
+[![Stargate](https://img.shields.io/badge/Stargate-105%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/stargate)
 > Locate function addresses without EAT parsing
 
 ### 🌙 **Moonwalk**
-[![Moonwalk](https://img.shields.io/badge/Moonwalk-160%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/moonwalk)
+[![Moonwalk](https://img.shields.io/badge/Moonwalk-161%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/moonwalk)
 =======
 > Find DLL base addresses without PEB WALK
 
 ### 🔧 **Noldr**
-[![Noldr](https://img.shields.io/badge/Noldr-72%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/noldr)
+[![Noldr](https://img.shields.io/badge/Noldr-73%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/noldr)
 > Dynamically resolve API function addresses at runtime
 
 ### ⚡ **Early Cascade Injection**
