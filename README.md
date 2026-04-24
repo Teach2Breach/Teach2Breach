@@ -44,7 +44,7 @@ let me = SecurityResearcher {
 > Locate function addresses without EAT parsing
 
 ### 🌙 **Moonwalk**
-[![Moonwalk](https://img.shields.io/badge/Moonwalk-161%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/moonwalk)
+[![Moonwalk](https://img.shields.io/badge/Moonwalk-162%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/moonwalk)
 =======
 > Find DLL base addresses without PEB WALK
 
@@ -53,7 +53,7 @@ let me = SecurityResearcher {
 > Dynamically resolve API function addresses at runtime
 
 ### ⚡ **Early Cascade Injection**
-[![Early Cascade](https://img.shields.io/badge/Early%20Cascade-62%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/early_cascade_inj_rs)
+[![Early Cascade](https://img.shields.io/badge/Early%20Cascade-63%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/early_cascade_inj_rs)
 > Early cascade injection PoC based on Outflank's research
 
 ### 🎉 **Pool Party**
