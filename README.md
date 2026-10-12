@@ -36,7 +36,7 @@ let me = SecurityResearcher {
 <div align="center">
 
 ### 🔥 **Tempest** - Command & Control Framework
-[![Tempest](https://img.shields.io/badge/Tempest-389%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/Tempest)
+[![Tempest](https://img.shields.io/badge/Tempest-388%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/Tempest)
 > A sophisticated command and control framework written in Rust
 
 ### 🌌 **Stargate** 
@@ -57,15 +57,15 @@ let me = SecurityResearcher {
 > Early cascade injection PoC based on Outflank's research
 
 ### 🎉 **Pool Party**
-[![Pool Party](https://img.shields.io/badge/Pool%20Party-73%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/pool_party_rs)
+[![Pool Party](https://img.shields.io/badge/Pool%20Party-0%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/pool_party_rs)
 > Remote process injections using pool party techniques
 
 ### 👻 **Phantom Persistence**
-[![Phantom](https://img.shields.io/badge/Phantom%20Persistence-67%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/phantom_persist_rs)
+[![Phantom](https://img.shields.io/badge/Phantom%20Persistence-0%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/phantom_persist_rs)
 > Rust implementation of phantom persistence technique
 
 ### 🚀 **More Projects**
-[![View All](https://img.shields.io/badge/View%20All%20Repositories-143%20repos-00ff41?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Teach2Breach?tab=repositories&q=&type=source&language=&sort=)
+[![View All](https://img.shields.io/badge/View%20All%20Repositories-0%20repos-00ff41?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Teach2Breach?tab=repositories&q=&type=source&language=&sort=)
 > Explore my complete collection of cybersecurity tools and research
 
 </div>
