@@ -36,7 +36,7 @@ let me = SecurityResearcher {
 <div align="center">
 
 ### 🔥 **Tempest** - Command & Control Framework
-[![Tempest](https://img.shields.io/badge/Tempest-389%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/Tempest)
+[![Tempest](https://img.shields.io/badge/Tempest-390%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/Tempest)
 > A sophisticated command and control framework written in Rust
 
 ### 🌌 **Stargate** 
@@ -53,7 +53,7 @@ let me = SecurityResearcher {
 > Dynamically resolve API function addresses at runtime
 
 ### ⚡ **Early Cascade Injection**
-[![Early Cascade](https://img.shields.io/badge/Early%20Cascade-64%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/early_cascade_inj_rs)
+[![Early Cascade](https://img.shields.io/badge/Early%20Cascade-63%20stars-00ff41?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Teach2Breach/early_cascade_inj_rs)
 > Early cascade injection PoC based on Outflank's research
 
 ### 🎉 **Pool Party**
